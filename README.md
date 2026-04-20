@@ -1,4 +1,3 @@
-\
 # PUBG WinPlacePerc Web App (Streamlit, English UI + Notebook Visuals)
 
 ## 1) Setup
