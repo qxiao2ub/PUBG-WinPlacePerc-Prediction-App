@@ -1,3 +1,14 @@
+---
+title: PUBG WinPlacePerc App
+emoji: 🎮
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.25.0"
+app_file: app.py
+pinned: false
+---
+
 # PUBG WinPlacePerc Web App (Streamlit, English UI + Notebook Visuals)
 
 ## 1) Setup
